@@ -1,0 +1,14 @@
+.formulario {
+  margin-top: 5%;
+}
+
+.col-centered {
+  display: inline-block;
+  float: none;
+  text-align: left;
+  margin-right: -4px;
+}
+
+.row-centered {
+  text-align: center;
+}
